@@ -3,22 +3,29 @@
 
 @import "{{ site.theme }}";
 
-// Override default width and margin settings
+/* Override the theme's default styles */
 .inner {
-    max-width: 1200px;  // Default is 960px - increasing for longer lines
+    max-width: 1200px !important;
+    position: relative;
+    padding: 20px 10px;
+    margin: 0 auto;
 }
 
 #main_content {
-    padding-top: 20px;  // Reduce top padding
+    padding-top: 20px !important;
 }
 
 #main_content_wrap {
-    padding-top: 20px;  // Reduce top padding
+    padding-top: 20px !important;
+    background: #f2f2f2;  /* Optional: if you want to change background */
 }
 
-.inner {
-    position: relative;
-    max-width: 1200px;
-    padding: 20px 10px;
-    margin: 0 auto;
+/* Additional specific overrides for slate theme */
+#header_wrap .inner {
+    padding: 20px 10px 20px 10px;
+}
+
+#project_title {
+    margin: 0;
+    padding: 0;
 }
