@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Majid Jangani"
+title: "Portfolio Construction and Optimization"
 ---
 
 # Projects
