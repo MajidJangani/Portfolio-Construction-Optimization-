@@ -1,0 +1,11 @@
+title: MAJID JANGANI
+description: Portfolio Construction and Optimization
+show_downloads: true
+theme: jekyll-theme-slate
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM
+plugins:
+  - jekyll-remote-theme
