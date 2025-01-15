@@ -9,3 +9,5 @@ kramdown:
   input: GFM
 plugins:
   - jekyll-remote-theme
+permalink: /:title/
+baseurl: "/Portfolio-Construction-Optimization-"  # Add this line with your repo name
