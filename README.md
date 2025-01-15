@@ -8,7 +8,7 @@ View the complete project analysis and implementation at [GitHub Pages](https://
 
 ## Key Features
 - **Objective**: This project explores industry-relevant portfolio management techniques, focusing on optimizing capital allocation across a diverse set of assets.
-- **Data Source**: Historical price data from Yahoo Finance.
+- **Data Source**: Historical price data for ETFs from Yahoo Finance.
 - **Tech Stack**: Python, Pandas, NumPy, scikit-learn, yfinance, Matplotlib.
 - **Methodology**:
   - Equal wighted, the Critical Line Algorithm (a practical mean-variance optimization technique), 
