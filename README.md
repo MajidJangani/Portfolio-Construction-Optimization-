@@ -19,7 +19,7 @@ View the complete project analysis and implementation at [GitHub Pages](https://
 
 ## Repository Structure
 ```python
-Mean_Reversion_Pair_Trading/
+Portfolio-Construction-Optimization-/
 ├── index.md                  # Main project documentation
 ├── assets/                   # CSS and other assets
 └── _includes/               # Custom includes for GitHub Pages
