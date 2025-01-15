@@ -20,6 +20,12 @@ View the complete project analysis and implementation at [GitHub Pages](https://
 ## Repository Structure
 ```python
 Portfolio-Construction-Optimization-/
-├── index.md                  # Main project documentation
-├── assets/                   # CSS and other assets
-└── _includes/               # Custom includes for GitHub Pages
+root/
+├── _includes/
+│   └── head-custom.html
+├── assets/
+│   └── style.scss
+├── _config.yml
+├── index.md
+├── etfs-portfolio-construction.md
+└── README.md
