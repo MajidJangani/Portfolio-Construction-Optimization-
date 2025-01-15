@@ -5,6 +5,6 @@ title: "Majid Jangani"
 
 # Projects
 
-* [Portfolio Construction and Optimization](./Portfolio-Construction-Optimization)
+* [Portfolio Construction and Optimization](./portfolio-Construction-Optimization)
 
 
