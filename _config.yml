@@ -10,4 +10,4 @@ kramdown:
 plugins:
   - jekyll-remote-theme
 permalink: /:title/
-baseurl: "/Portfolio-Construction-Optimization-"  # Add this line with your repo name
+baseurl: "/Portfolio-Construction-Optimization-"
