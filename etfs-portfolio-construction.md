@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Portfolio Construction And Optimization"
+title: "ETFs Portfolio Construction"
 ---
-
 # Project Overview
 
 This project explores industry-relevant portfolio management techniques, focusing on optimizing capital allocation across a diverse set of assets. After analyzing traditional methods such as the Equal wighted, the Critical Line Algorithm (a practical mean-variance optimization technique) and Inverse Volatility, the project shifts towards Hierarchical Risk Parity (HRP) portfolio optimization. HRP leverages machine learning, specifically unsupervised techniques like hierarchical clustering, to group similar assets and enhance diversification by minimizing portfolio risk. 
