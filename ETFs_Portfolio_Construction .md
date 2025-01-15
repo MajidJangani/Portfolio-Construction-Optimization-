@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Portfolio Construction and Optimization"
+title: "Portfolio Construction And Optimization"
 ---
 
 # Project Overview
