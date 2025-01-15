@@ -3,7 +3,7 @@
 # Project Overview
 
 ## Live Project
-View the complete project analysis and implementation at [GitHub Pages]([https://majidjangani.github.io/Portfolio-Construction-Optimization-/])
+View the complete project analysis and implementation at [GitHub Pages](https://majidjangani.github.io/Portfolio-Construction-Optimization-/)
 
 
 ## Key Features
